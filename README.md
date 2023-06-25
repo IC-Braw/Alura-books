@@ -1,5 +1,5 @@
 <h1 align=center> <p>Alura Books</p>
-  <img src = https://user-images.githubusercontent.com/119905716/216847357-060a6ced-b518-481f-8ce5-41c30d539d4e.png#vitrinedev
+  <img src = https://github.com/IC-Braw/Alura-books/assets/119905716/a683365e-1fa7-4f09-be86-a1ab04d002c8#vitrinedev
  alt = "Página inicial projeto Alura Books com informações do serviço e como plano de fundo um mosaico com fotos de cada desenvolvedor da plataforma" width=60%></h1>
 <h2>#AluraPlus</h2>
 <p>Esse projeto foi realizado para o curso HTML e CSS: responsividade com Mobile First, realizado pela Alura.</p>
@@ -8,7 +8,7 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<img src=https://programadoresbrasil.com.br/wp-content/uploads/2020/02/Introduction-to-HTML-and-CSS-for-Beginners-Hafiza-Rabbia-Shafiq.jpg alt= Logotipo do HTML e do CSS width=40%>
+<img src=https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg alt= Logotipo do HTML e do CSS width=30%>
 
 <h2>Desenvolvedor</h2>
 
